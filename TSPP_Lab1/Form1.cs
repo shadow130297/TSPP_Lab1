@@ -12,7 +12,8 @@ namespace TSPP_Lab1
 {
     public partial class Form1 : Form
     {
-        //Lab4 - GitHub
+        //Lab4 - Git
+        //Volk
         public Form1()
         {
             InitializeComponent();
