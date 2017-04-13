@@ -12,6 +12,7 @@ namespace TSPP_Lab1
 {
     public partial class Form1 : Form
     {
+        //Volk lab4
         public Form1()
         {
             InitializeComponent();
