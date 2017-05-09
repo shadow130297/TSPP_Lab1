@@ -6,7 +6,11 @@ namespace TSPP_Lab1
 {
     public partial class Form1 : Form
     {
+<<<<<<< HEAD
         //Volk lab4
+=======
+        //Lab4 - GitHub
+>>>>>>> refs/remotes/origin/Second
         public Form1()
         {
             InitializeComponent();
